@@ -10,11 +10,11 @@ public class PentagonCrazy {
 
 	private void makePrettyThings() {
 		// 1. Create a new Robot
-
+Robot yomp = new Robot();
 		// 3. Put the robot's pen down
-
+yomp.penDown();
 		// 8. Make the robot go at maximum speed (100)
-
+yomp.setSpeed(100);
 		// 9. Set the pen to a color that you like for the shape
 
 		// 4. Make a variable for the number of sides you want (can’t test this one)

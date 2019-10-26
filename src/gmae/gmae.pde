@@ -42,9 +42,7 @@ ellipse(bullet2X,450,50,50);
    bullet2X = bullet2X +10;
 
 }
-if(bulletX<=0){
-  delay(1000)
-}
+
     
  
     
